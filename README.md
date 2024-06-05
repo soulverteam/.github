@@ -1,2 +1,1 @@
-# .github
-Soulver related frameworks &amp; apps on GitHub
+This repository is used to customize our team landing page on GitHub

@@ -1,12 +1,20 @@
-## Hi there 👋
+## Soulver on GitHub
 
-<!--
+### [Soulver X Series](https://github.com/soulverteam/X-Series)
+-  The most advanced versions of Soulver ever.
 
-**Here are some ideas to get you started:**
+### Soulver for the Terminal
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+-  [Soulver CLI](https://github.com/soulverteam/Soulver-CLI) (for macOS)
+-  [Soulver CLI](https://github.com/soulverteam/Soulver-CLI-Windows) (for Windows)
+
+## For Developers
+
+### [SoulverCore](https://github.com/soulverteam/SoulverCore)
+-  Integrate Soulver's math engine into your Swift apps.
+
+### [Date Parsing](https://github.com/soulverteam/SoulverDateFromString) (with SoulverCore)
+-  Create a natural language date entry feature in your Swift app.
+
+### [String Parsing](https://github.com/soulverteam/SoulverStringParsing) (with SoulverCore)
+-  A declarative and type-safe approach to parsing data from strings (an alternative to regex).
