@@ -1,5 +1,7 @@
 ## Soulver on GitHub
 
+<img src="Images/Introducing%20X1.png" alt="Introducing Soulver X1" width="800"/>
+
 ### [Soulver X Series](https://github.com/soulverteam/X-Series)
 -  The most advanced versions of Soulver ever.
 
