@@ -16,9 +16,18 @@
 
 ### [SoulverCore](https://github.com/soulverteam/SoulverCore)
 -  Integrate Soulver's math engine into your Swift apps.
+```swift
+let result = calculator.calculate("45 is what % of 120")
+```
 
 ### [Date Parsing](https://github.com/soulverteam/SoulverDateFromString) (with SoulverCore)
--  Create a natural language date entry feature in your Swift app.
+-  Quickly extract dates from strings and power a natural language date entry feature in your Swift app.
+```swift
+let date = "two weeks ago".dateValue
+```
 
 ### [String Parsing](https://github.com/soulverteam/SoulverStringParsing) (with SoulverCore)
--  A declarative and type-safe approach to parsing data from strings (an alternative to regex).
+-  A declarative and type-safe approach to parsing data types from strings (an alternative to regex).
+```swift
+let duckCount = "There are 3 ducks in the pond".find(.number)
+```
