@@ -21,7 +21,7 @@ let date = "two weeks ago".dateValue
 import SoulverCore
 let duckCount = "There are 3 ducks in the pond".find(.number)
 ```
-## Soulver in the Command Line
+## Soulver from the Command Line
 
 -  [Soulver CLI](https://github.com/soulverteam/Soulver-CLI) (for macOS)
 -  [Soulver CLI](https://github.com/soulverteam/Soulver-CLI-Windows) (for Windows)
