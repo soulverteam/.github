@@ -8,7 +8,7 @@ let calculator = Calculator(customization: .standard)
 let result = calculator.calculate("45 is what % of 120")
 ```
 
-### [Date Parsing](https://github.com/soulverteam/DateFromString) (with SoulverCore)
+### [Date Parsing](https://github.com/soulverteam/DateParsing) (with SoulverCore)
 -  Quickly parse dates from strings in any common format, and power natural language date entry features in your Swift apps.
 ```swift
 import SoulverCore
