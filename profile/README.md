@@ -1,4 +1,4 @@
-## Swift APIs
+## Swift Frameworks
 
 ### [SoulverCore](https://github.com/soulverteam/SoulverCore)
 -  Use Soulver's natural language math engine in your Swift apps.
