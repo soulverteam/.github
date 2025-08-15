@@ -1,4 +1,4 @@
-## Swift Frameworks
+## Frameworks
 
 ### [SoulverCore](https://github.com/soulverteam/SoulverCore)
 -  Use Soulver's natural language math engine in your Swift apps.
@@ -23,7 +23,9 @@ let date = "two weeks ago".dateValue
 import SoulverCore
 let duckCount = "There are 3 ducks in the pond".find(.number)
 ```
-## Soulver from the Command Line
-
+## Command line tools
 -  [Soulver CLI](https://github.com/soulverteam/Soulver-CLI) (for macOS)
 -  [Soulver CLI](https://github.com/soulverteam/Soulver-CLI-Windows) (for Windows)
+
+## Sample apps
+- [Simple Soulver](https://github.com/soulverteam/SimpleSoulver)
